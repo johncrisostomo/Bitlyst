@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitlyst
+Version=0.1
+Comment=A bit.ly URL shortener/expander
+GenericName=Bitlyst
+Terminal=false
+Icon=
+Type=Application
+Exec=
+Categories=;

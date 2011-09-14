@@ -1,0 +1,8 @@
+Package: bitlyst
+Version: 0.1
+Section: accessories
+Maintainer: John Crisostomo <jdcrisostomo@gmail.com>
+Architecture: all
+Depends: python, pygtk
+Description: Bitlyst
+ A bit.ly URL shortener/expander desktop application, created by John Crisostomo. 
